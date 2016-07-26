@@ -21,7 +21,14 @@
             var command = args.Command as MusicCommand;
             if(command != null)
             {
-                PlayFile(command.NewMusicPath, command.Loop);
+                if (command.Stop)
+                {
+                    player.controls.stop();
+                }
+                else
+                {
+                    PlayFile(command.NewMusicPath, command.Loop);
+                }
             }
         }
     }

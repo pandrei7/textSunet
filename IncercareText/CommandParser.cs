@@ -11,6 +11,7 @@ namespace IncercareText
                 return false;
 
             // Now we check the existing command-types
+            // (It's important to check the more specific names first)
             if (s.IndexOf("BACKGROUND") != -1)
                 return true;
             if (s.IndexOf("MUSIC") != -1)
@@ -48,7 +49,8 @@ namespace IncercareText
             {
                 string musicPath = makeMusicPlayerPath(getValueOfArgument(s, "filename"));
                 bool loop = (s.IndexOf("loop") != -1);
-                return new MusicCommand(musicPath, loop);
+                bool stop = (s.IndexOf("STOP") != -1);
+                return new MusicCommand(musicPath, loop, stop);
             }
             else if(s.IndexOf("BACKGROUND") != -1)
             {

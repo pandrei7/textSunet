@@ -9,3 +9,14 @@ C:\Users\c\Desktop\Info\Pt.C#\IncercareText\IncercareText\obj\Debug\IncercareTex
 C:\Users\c\Desktop\Info\Pt.C#\IncercareText\IncercareText\obj\Debug\IncercareText.pdb
 C:\Users\c\Desktop\Info\Pt.C#\IncercareText\IncercareText\obj\Debug\Interop.WMPLib.dll
 C:\Users\c\Desktop\Info\Pt.C#\IncercareText\IncercareText\obj\Debug\IncercareText.csproj.ResolveComReference.cache
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\bin\Debug\IncercareText.exe.config
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\IncercareText.csproj.ResolveComReference.cache
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\IncercareText.exe
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\IncercareText.pdb
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\bin\Debug\IncercareText.exe
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\bin\Debug\IncercareText.pdb
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\IncercareText.csprojResolveAssemblyReference.cache
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\IncercareText.Form1.resources
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\IncercareText.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Info\Git\textSunet\IncercareText\obj\Debug\IncercareText.csproj.GenerateResource.Cache

@@ -1,5 +1,5 @@
 ﻿[FORMTITLE value="Borta-vântului"]
-[TITLE value="Borta-vântului" color="#0000FF" fontName="Microsoft Tai Le" size="15,5"]
+[TITLE value="Borta-vântului" color="#0000FF" fontName="Microsoft Tai Le" size="15.5"]
 [MUSIC filename="Heartwarming.mp3" loop]
 [BACKGROUND color="#FFFEEB"]
 [FONT color="#000000"]
@@ -65,3 +65,4 @@ Aşa s-a făcut de bogat acu, de-a ajuns veste pân la-mpăratul. Atâţia bani 
 – Bine, măi împărate. Cârje’ncârjeşte-te, la tot soldatul câte două şi la împăratul nouă. (Cârja era dumnezeiască, tot în cap pâcâia).
 [STOP]
 O nebunit şi pe soldaţi şi pe-mpăratul. S-o dus împăratul, ş-o rămas pace ş-o trăit bine. Să dea D-zeu să trăiască şi copiii mei aşa.
+[MUSIC STOP]
